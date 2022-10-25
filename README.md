@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning with Python**
 
-- 👯 I’m looking to collaborate on **projects about Machine learning**
+- 👯 I’m looking to collaborate on **projects about Machine learning and Data analytics**
 
 - 📫 How to reach me **giselle.juarez89@gmail.com**
 
